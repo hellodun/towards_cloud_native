@@ -1,7 +1,7 @@
 export default {
     logo: (
         <>
-        <img src="./images/logo-v1-white.svg" alt="tcn logo" />
+        <img src="https://github.com/hellodun/towards_cloud_native/blob/main/images/logo-v1-white.svg" alt="tcn logo" />
         <br />
         <span>towards Cloud Native</span>
         </>
